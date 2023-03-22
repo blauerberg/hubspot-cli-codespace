@@ -2,4 +2,5 @@
 ARG VARIANT=18
 FROM mcr.microsoft.com/devcontainers/typescript-node:0-${VARIANT}
 
+RUN echo alias hs=\"npx hs\" >> /etc/zsh/zshrc
 CMD [ "sleep", "infinity" ]
