@@ -1,0 +1,26 @@
+{
+  "name": "hubspot-cli-codespace",
+  "version": "1.0.0",
+  "description": "A sandbox repository for running Node.js environments with the HubSpot CLI on GitHub Codespaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubspot"
+  ],
+  "author": "Yoshikazu Aoyama",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "prettier": "^2.8.6",
+    "ts-loader": "^9.4.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2",
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "@hubspot/cli": "^4.1.6"
+  }
+}
