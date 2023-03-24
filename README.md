@@ -1,14 +1,12 @@
 # HubSpot cli codespace
 
-A sandbox repository for running Node.js environments with the HubSpot CLI on GitHub Codespaces.
+A sandbox repository for running HubSpot CLI on GitHub CodeSpaces.
 
 ## How to use
 
-All tools are already installed.
+All tools are already installed, so all you have to do is run `hs init` command.
 
-So all you have to do is run `hs init` command.
-
-Have fun with Hubspot! :)
+Have fun with HubSpot CLI! :)
 
 ## License
 
